@@ -71,3 +71,13 @@ Ctrl + Shift + P, selecione Workspace Settings (JSON)
     "editor.defaultFormatter": "ms-python.black-formatter"
 }
 ```
+
+
+# Tópicos abordados
+- Criando estrutura base de um projeto Django e entendendo fluxo de execução
+- Modelos, views e migrações
+- Isolando configurações do projeto e configuração de formatação de código com black
+- Criação das páginas, templates, listagem e consultas no banco de dados
+- Cadastro de tarefas utilizando class based views
+- Django crispy forms para gerar formulários de forma automatizada
+- Herança de templates para reaproveitamento de código
