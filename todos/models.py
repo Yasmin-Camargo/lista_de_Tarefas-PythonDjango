@@ -8,5 +8,5 @@ class Todo(models.Model):
     created_at = models.DateTimeField(
         auto_now_add=True, null=False, blank=False
     )  # cria a data automaticamente
-    deadline = models.DateTimeField(null=True, blank=True)
-    fineshed_at = models.DateTimeField(null=True)
+    deadline = models.DateField(null=True, blank=True)
+    fineshed_at = models.DateField(null=True)
