@@ -1,6 +1,20 @@
 # Lista de Tarefas - Python Django - TreinaWeb
 Projeto utilizando o framework Django.
 
+Tutorial utilizado: https://www.youtube.com/playlist?list=PLZ5WLsqE1WPGPA0Z0H1XB8P6UwgTHOSaf
+
+# Tópicos Abordados
+- Estruturação de um projeto Django e compreensão do fluxo de execução.
+- Implementação de modelos, views e migrações de banco de dados.
+- Isolamento das configurações do projeto e formatação automatizada do código com Black.
+- Criação de páginas, templates e realização de consultas e listagens no banco de dados.
+- Cadastro de tarefas utilizando Class-Based Views (CBVs).
+- Utilização do Django Crispy Forms para a geração automatizada de formulários.
+- Aplicação de herança de templates para reaproveitamento de código.
+- Funcionalidades de atualização (Update) e exclusão (Delete) de informações.
+- Implementação completa de um sistema CRUD (Create, Read, Update, Delete).
+- Conclusão de tarefas e ordenação de itens cadastrados.
+
 ## Instalação
 
 ### Criar um ambiente virtual
@@ -73,14 +87,4 @@ Ctrl + Shift + P, selecione Workspace Settings (JSON)
 ```
 
 
-# Tópicos abordados
-- Criando estrutura base de um projeto Django e entendendo fluxo de execução
-- Modelos, views e migrações
-- Isolando configurações do projeto e configuração de formatação de código com black
-- Criação das páginas, templates, listagem e consultas no banco de dados
-- Cadastro de tarefas utilizando class based views
-- Django crispy forms para gerar formulários de forma automatizada
-- Herança de templates para reaproveitamento de código
-- Update e Delet de informações 
-- CRUD
 
