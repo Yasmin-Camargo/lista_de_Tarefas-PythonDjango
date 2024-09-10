@@ -81,3 +81,4 @@ Ctrl + Shift + P, selecione Workspace Settings (JSON)
 - Cadastro de tarefas utilizando class based views
 - Django crispy forms para gerar formulários de forma automatizada
 - Herança de templates para reaproveitamento de código
+- Update de informações
